@@ -14,7 +14,7 @@
 - 📫 How to reach me: Job ? "LinkedIn" : "Twitter" (links above)
 - 😄 2021 Goals: Getting my first Developer Job & become comfortable with Frontend Area
 - ⚡ Fun fact: I play guitar and I m a self-taught developer with non-cs background
-- ❤ Work at Geek Squad as Technical Intern
+- ❤ Works as Software Developer at Geeksquad in Reactjs
 
 <hr/>
 
